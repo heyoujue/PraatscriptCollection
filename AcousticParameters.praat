@@ -7,7 +7,7 @@
 
 form Get acoustic parameters of labeled segments
 	comment Where are your wav/TextGridfiles?
-	text openpath C:\Users\heyoujue\Documents\CW\F1
+	text openpath C:\Users
 	comment Which tier of the TextGrid object would you like to analyse?
 	integer Tier 1
 	comment Enter speaker gender (m or f only)
