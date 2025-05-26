@@ -1,7 +1,7 @@
 #This is a script for extracting certain channel batchly.
 #Script date（2023.8）
-#Author:何友珏 Youjue He （Peking University） 
-#Any suggestion or advice email to：heyoujue@stu.pku.edu.cn
+#Author:何友珏 Youjue He （heyoujue.com） 
+#Any suggestion or advice email to：info@heyoujue.com
 
 
 form Information
