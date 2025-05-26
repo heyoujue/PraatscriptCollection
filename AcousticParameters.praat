@@ -1,4 +1,4 @@
-!本脚本由何友珏（https://www.heyoujue.com/）改编自冉启斌（https://www.ranqibin.com/）老师的脚本。任何问题欢迎电邮联系info@heyojue.com
+!本脚本由何友珏（https://www.heyoujue.com/）改编自冉启斌（https://www.ranqibin.com/）老师的脚本。任何问题欢迎电邮联系info@heyoujue.com
 # This script was adapted by Youjue He（何友珏 https://www.heyoujue.com/）from Professor Qibin Ran's（冉启斌 https://www.ranqibin.com/）works, feel free to email(info@heyojue.com) me if you have any trouble with it.
 !请确保wav文件和TextGrid文件同名，并在同一文件夹目录下。
 # Make sure your wav and TextGrid files have the same name and put them in the same filefolder.
